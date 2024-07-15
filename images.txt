@@ -4,4 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong
-casaos.io
+https://www.oschina.net/p/casaos
